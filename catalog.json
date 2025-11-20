@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": "search",
+      "title": "Боты поисковики",
+      "items": [
+        {
+          "id": "fanstat",
+          "title": "Fanstat",
+          "image": "https://raw.githubusercontent.com/akniyet155/image1/main/banner7.jpg",
+          "url": "https://t.me/Fanstatr0t0bot?start=0101C2633E7101000000",
+          "desc": "Поисковый бот для пробива."
+        },
+        {
+          "id": "himera",
+          "title": "Himera",
+          "image": "https://raw.githubusercontent.com/akniyet155/image1/main/photo_2025-11-21_02-42-59.jpg",
+          "url": "https://t.me/HimeraSearch9kNBot?start=994270689",
+          "desc": "Агрегатор поисковых запросов."
+        },
+        {
+          "id": "detectiv",
+          "title": "Detectiv",
+          "image": "https://raw.githubusercontent.com/akniyet155/image1/main/banner2.jpg",
+          "url": "https://t.me/Detectivr0bot",
+          "desc": "Инструмент для поиска данных."
+        }
+      ]
+    },
+    {
+      "id": "vpn",
+      "title": "Бесплатный VPN",
+      "items": [
+        {
+          "id": "vpn1",
+          "title": "FreeVPNX",
+          "image": "https://picsum.photos/seed/vpn/600/400",
+          "url": "https://t.me/SomeVpnBot",
+          "desc": "Бесплатный мобильный VPN."
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Киноботы",
+      "items": [
+        {
+          "id": "movie1",
+          "title": "CineBot",
+          "image": "https://picsum.photos/seed/movie/600/400",
+          "url": "https://t.me/CineBot",
+          "desc": "Поиск фильмов и трансляций."
+        }
+      ]
+    }
+  ]
+}
